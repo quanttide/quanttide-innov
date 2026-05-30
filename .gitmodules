@@ -4,3 +4,6 @@
 [submodule "docs/essay"]
 	path = docs/essay
 	url = https://github.com/quanttide/quanttide-essay-of-innovation
+[submodule "examples/product"]
+	path = examples/product
+	url = https://github.com/quanttide/quanttide-laboratory-of-product-development
