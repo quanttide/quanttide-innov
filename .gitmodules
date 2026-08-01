@@ -8,6 +8,3 @@
 [submodule "data/profile"]
 	path = data/profile
 	url = https://github.com/quanttide/quanttide-profile-of-innovation-management
-[submodule "assets/Lumi"]
-	path = assets/Lumi
-	url = https://github.com/deku0818/Lumi
