@@ -1,6 +1,6 @@
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-innovation-management
+[submodule "examples/quanttide-innov-lab"]
+	path = examples/quanttide-innov-lab
+	url = https://github.com/quanttide/quanttide-innov-lab.git
 	shallow = true
 [submodule "docs/essay"]
 	path = docs/essay
